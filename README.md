@@ -3,7 +3,9 @@
 # Portfolio
 
 > This is a portfolio building project for my future projects to put in.
-<img width="318" alt="Screenshot 2022-02-17 at 5 08 49 PM" src="https://user-images.githubusercontent.com/86784174/154498789-801b471f-3458-4d5b-b478-9877ed9f52bf.png">
+<img width="320" alt="Screenshot 2022-02-17 at 8 26 45 PM" src="https://user-images.githubusercontent.com/86784174/154537290-0763e54f-9846-4820-840b-894f59d8ba60.png">
+<img width="320" alt="Screenshot 2022-02-17 at 8 26 55 PM" src="https://user-images.githubusercontent.com/86784174/154537304-3594a2ce-7b46-4b30-bdf1-a737b8f1280c.png">
+
 
 
 
