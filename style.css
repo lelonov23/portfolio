@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+#bg-image-1 {
+  width: 111px;
+  height: 74px;
+  background-image: url("src/image_geometry_1.png");
+  background-size: cover;
+}
+
+.menu-btn {
+  padding: 16px;
+}
+
+section {
+  padding: 0 16px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  margin: 0;
+  font-family: Playfair Display, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 100%;
+  color: #1a2236;
+}
+
+.bio {
+  margin: 20px 0 0 0;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.01em;
+  color: #1a2236;
+}
+
+.contact-button {
+  margin-top: 40px;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #fff;
+  background-color: #1a2236;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.contact-button:hover {
+  background-color: #282e3d;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#bg-image-2 {
+  width: 100%;
+  min-height: 50px;
+  max-height: 160px;
+  height: calc(100vw / 2);
+  margin-top: 32px;
+  background-image: url("src/image_geometry_2.png");
+  background-size: contain;
+}
