@@ -3,7 +3,7 @@
 # Portfolio
 
 > This is a portfolio building project for my future projects to put in.
-> <img width="318" alt="Screenshot 2022-02-17 at 5 08 49 PM" src="https://user-images.githubusercontent.com/86784174/154498789-801b471f-3458-4d5b-b478-9877ed9f52bf.png">
+<img width="318" alt="Screenshot 2022-02-17 at 5 08 49 PM" src="https://user-images.githubusercontent.com/86784174/154498789-801b471f-3458-4d5b-b478-9877ed9f52bf.png">
 
 
 
