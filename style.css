@@ -265,9 +265,6 @@ p {
 }
 
 .box ul {
-  /* list-style-type: disc;
-  list-style-position: inside; */
-  padding: 0;
   font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 600;
